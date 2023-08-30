@@ -1,5 +1,11 @@
-### Hi there 👋
-
+<div align="center">
+  <h1 style="font-size: 24px;">📚Stack</h1>
+  <h2 style="font-size: 24px;">🛠Main Technology</h2>
+  <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-purple?style=flat-square&logo=cplusplus&logoColor=#00599C"/> <img src="https://img.shields.io/badge/JAVA-blue?style=flat-square&logo=eclipseide&logoColor=#2C2255"/>
+  <h2 style="font-size: 24px;">📖SNS</h2>
+  <br></br>
+  <a href="https://end-of-code.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&logoColor=#000000"/></a>
+</div>
 <!--
 **developerYHLee/developerYHLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
