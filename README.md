@@ -12,10 +12,8 @@
   <h3 style="font-size: 24px;">✏Once I've used in a project</h3>
   <img src="https://img.shields.io/badge/Lua-800080?style=flat-square&logo=lua&logoColor=#2C2D72"/>
   <img src="https://img.shields.io/badge/Python-800080?style=flat-square&logo=python&logoColor=#3776AB"/>
-  <br></br>
   <img src="https://img.shields.io/badge/AR Foundation-800080?style=flat-square&l"/>
   <img src="https://img.shields.io/badge/Pandas-800080?style=flat-square&logo=pandas&logoColor=#150458"/>
-  <br></br>
   <img src="https://img.shields.io/badge/MySQL-800080?style=flat-square&logo=mysql&logoColor=#4479A1"/>
   <img src="https://img.shields.io/badge/Roblox Studio-800080?style=flat-square&logo=robloxstudio&logoColor=#00A2FF"/>
 
