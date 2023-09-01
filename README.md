@@ -23,8 +23,6 @@
 <br></br>
 ![[Solved.ac 프로필](https://solved.ac/profile/iteyh812)](http://mazassumnida.wtf/api/v2/generate_badge?boj=iteyh812)
 <img src="http://mazandi.herokuapp.com/api?handle=iteyh812&theme=warm"/>
-
-<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerYHLee)](https://github.com/developerYHLee/github-readme-stats)
   
 </div>
