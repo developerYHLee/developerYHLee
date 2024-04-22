@@ -1,6 +1,5 @@
 <div align="center">
   <h3 style="font-size: 24px;"> ⚙Main Language</h3>
-  <img src="https://img.shields.io/badge/JAVA-0000FF?style=flat-square&logo=eclipseide&logoColor=#2C2255"/>
   <img src="https://img.shields.io/badge/C++-0000FF?style=flat-square&logo=cplusplus&logoColor=#00599C"/>
   <img src="https://img.shields.io/badge/C%23-0000FF?style=flat-square&logo=csharp&logoColor=white"/>
    
