@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/MySQL-800080?style=flat-square&logo=mysql&logoColor=#4479A1"/>
   <img src="https://img.shields.io/badge/Roblox Studio-800080?style=flat-square&logo=robloxstudio&logoColor=#00A2FF"/>
 
+<h3 style="font-size: 24px;">🚀Portfolio</h3>
+  <a href="https://www.notion.so/leeyunho-portfolio/a70676431d294e89afc2af90d72d40b2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFD400?style=flat-square&logo=notion&logoColor=black"/></a>
+
 <h3 style="font-size: 24px;">📖SNS</h3>
   <a href="https://end-of-code.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-008000?style=flat-square&logo=tistory&logoColor=#000000"/></a>
-  <a href="https://www.notion.so/leeyunho-portfolio/a70676431d294e89afc2af90d72d40b2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-008000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <br></br>
 ![[Solved.ac 프로필](https://solved.ac/profile/iteyh812)](http://mazassumnida.wtf/api/v2/generate_badge?boj=iteyh812)
